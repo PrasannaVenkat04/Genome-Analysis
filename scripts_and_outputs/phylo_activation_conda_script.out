@@ -1,0 +1,210 @@
+/var/spool/slurmd/job7852393/slurm_script: line 12: ​: command not found
+The variable CONDA_ENVS_PATH contains the location of your environments. Set it to your project's environments folder if you have one.
+Otherwise, the default is ~/.conda/envs. Remember to export the variable with export CONDA_ENVS_PATH=/proj/...
+
+You may run "source conda_init.sh" to initialise your shell to be able
+to run "conda activate" and "conda deactivate" etc.
+Just remember that this command adds stuff to your shell outside the scope of the module system.
+
+REMEMBER TO USE 'conda clean -a' once in a while
+
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... 
+Warning: >10 possible package resolutions (only showing differing packages):
+  - file:///sw/apps/conda/latest/rackham/local_repo/bioconda/linux-64::perl-compress-raw-bzip2-2.201-pl5321h87f3376_1, file:///sw/apps/conda/latest/rackham/local_repo/bioconda/linux-64::perl-compress-raw-zlib-2.105-pl5321h87f3376_0, file:///sw/apps/conda/latest/rackham/local_repo/bioconda/linux-64::perl-scalar-list-utils-1.62-pl5321hec16e2b_1, file:///sw/apps/conda/latest/rackham/local_repo/bioconda/noarch::perl-common-sense-3.75-pl5321hdfd78af_0
+  - bioconda/linux-64::perl-scalar-list-utils-1.62-pl5321hec16e2b_1, file:///sw/apps/conda/latest/rackham/local_repo/bioconda/linux-64::perl-compress-raw-bzip2-2.201-pl5321h87f3376_1, file:///sw/apps/conda/latest/rackham/local_repo/bioconda/linux-64::perl-compress-raw-zlib-2.105-pl5321h87f3376_0, file:///sw/apps/conda/latest/rackham/local_repo/bioconda/noarch::perl-common-sense-3.75-pl5321hdfd78af_0
+  - bioconda/linux-64::perl-compress-raw-bzip2-2.201-pl5321h87f3376_1, file:///sw/apps/conda/latest/rackham/local_repo/bioconda/linux-64::perl-compress-raw-zlib-2.105-pl5321h87f3376_0, file:///sw/apps/conda/latest/rackham/local_repo/bioconda/linux-64::perl-scalar-list-utils-1.62-pl5321hec16e2b_1, file:///sw/apps/conda/latest/rackham/local_repo/bioconda/noarch::perl-common-sense-3.75-pl5321hdfd78af_0
+  - bioconda/linux-64::perl-compress-raw-bzip2-2.201-pl5321h87f3376_1, bioconda/linux-64::perl-scalar-list-utils-1.62-pl5321hec16e2b_1, file:///sw/apps/conda/latest/rackham/local_repo/bioconda/linux-64::perl-compress-raw-zlib-2.105-pl5321h87f3376_0, file:///sw/apps/conda/latest/rackham/local_repo/bioconda/noarch::perl-common-sense-3.75-pl5321hdfd78af_0
+  - bioconda/linux-64::perl-compress-raw-bzip2-2.201-pl5321h87f3376_1, bioconda/linux-64::perl-compress-raw-zlib-2.105-pl5321h87f3376_0, file:///sw/apps/conda/latest/rackham/local_repo/bioconda/linux-64::perl-scalar-list-utils-1.62-pl5321hec16e2b_1, file:///sw/apps/conda/latest/rackham/local_repo/bioconda/noarch::perl-common-sense-3.75-pl5321hdfd78af_0
+  - bioconda/linux-64::perl-compress-raw-bzip2-2.201-pl5321h87f3376_1, bioconda/linux-64::perl-compress-raw-zlib-2.105-pl5321h87f3376_0, bioconda/linux-64::perl-scalar-list-utils-1.62-pl5321hec16e2b_1, file:///sw/apps/conda/latest/rackham/local_repo/bioconda/noarch::perl-common-sense-3.75-pl5321hdfd78af_0
+  - bioconda/linux-64::perl-compress-raw-zlib-2.105-pl5321h87f3376_0, file:///sw/apps/conda/latest/rackham/local_repo/bioconda/linux-64::perl-compress-raw-bzip2-2.201-pl5321h87f3376_1, file:///sw/apps/conda/latest/rackham/local_repo/bioconda/linux-64::perl-scalar-list-utils-1.62-pl5321hec16e2b_1, file:///sw/apps/conda/latest/rackham/local_repo/bioconda/noarch::perl-common-sense-3.75-pl5321hdfd78af_0
+  - bioconda/linux-64::perl-compress-raw-zlib-2.105-pl5321h87f3376_0, bioconda/linux-64::perl-scalar-list-utils-1.62-pl5321hec16e2b_1, file:///sw/apps/conda/latest/rackham/local_repo/bioconda/linux-64::perl-compress-raw-bzip2-2.201-pl5321h87f3376_1, file:///sw/apps/conda/latest/rackham/local_repo/bioconda/noarch::perl-common-sense-3.75-pl5321hdfd78af_0
+  - bioconda/linux-64::perl-compress-raw-zlib-2.105-pl5321h87f3376_0, bioconda/noarch::perl-common-sense-3.75-pl5321hdfd78af_0, file:///sw/apps/conda/latest/rackham/local_repo/bioconda/linux-64::perl-compress-raw-bzip2-2.201-pl5321h87f3376_1, file:///sw/apps/conda/latest/rackham/local_repo/bioconda/linux-64::perl-scalar-list-utils-1.62-pl5321hec16e2b_1
+  - bioconda/noarch::perl-common-sense-3.75-pl5321hdfd78af_0, file:///sw/apps/conda/latest/rackham/local_repo/bioconda/linux-64::perl-compress-raw-bzip2-2.201-pl5321h87f3376_1, file:///sw/apps/conda/latest/rackham/local_repo/bioconda/linux-64::perl-compress-raw-zlib-2.105-pl5321h87f3376_0, file:///sw/apps/conda/latest/rackham/local_repo/bioconda/linux-64::perl-scalar-list-utils-1.62-pl5321hec16e2b_1
+  ... and othersdone
+
+## Package Plan ##
+
+  environment location: /home/prve5836/envs/phylophlan
+
+  added / updated specs:
+    - phylophlan=3.0
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    blast-2.12.0               |       hf3cf87c_4        22.2 MB  file:///sw/apps/conda/latest/rackham/local_repo/bioconda
+    phylophlan-3.0.3           |     pyhdfd78af_0          79 KB  bioconda
+    ------------------------------------------------------------
+                                           Total:        22.2 MB
+
+The following NEW packages will be INSTALLED:
+
+  _libgcc_mutex      conda-forge/linux-64::_libgcc_mutex-0.1-conda_forge None
+  _openmp_mutex      conda-forge/linux-64::_openmp_mutex-4.5-2_gnu None
+  biopython          conda-forge/linux-64::biopython-1.79-py311hd4cff14_3 None
+  blast              bioconda/linux-64::blast-2.12.0-hf3cf87c_4 None
+  brotli             conda-forge/linux-64::brotli-1.0.9-h166bdaf_8 None
+  brotli-bin         conda-forge/linux-64::brotli-bin-1.0.9-h166bdaf_8 None
+  bzip2              conda-forge/linux-64::bzip2-1.0.8-h7f98852_4 None
+  c-ares             conda-forge/linux-64::c-ares-1.18.1-h7f98852_0 None
+  ca-certificates    conda-forge/linux-64::ca-certificates-2022.9.24-ha878542_0 None
+  capnproto          conda-forge/linux-64::capnproto-0.10.2-h6239696_0 None
+  certifi            conda-forge/noarch::certifi-2022.9.24-pyhd8ed1ab_0 None
+  contourpy          conda-forge/linux-64::contourpy-1.0.6-py311h4dd048b_0 None
+  curl               conda-forge/linux-64::curl-7.86.0-h7bff187_1 None
+  cycler             conda-forge/noarch::cycler-0.11.0-pyhd8ed1ab_0 None
+  dendropy           bioconda/noarch::dendropy-4.6.0-pyh7cba7a3_0 None
+  diamond            bioconda/linux-64::diamond-2.1.6-h5b5514e_1 None
+  entrez-direct      bioconda/linux-64::entrez-direct-16.2-he881be0_1 None
+  fasttree           bioconda/linux-64::fasttree-2.1.11-hec16e2b_1 None
+  fonttools          conda-forge/linux-64::fonttools-4.38.0-py311hd4cff14_1 None
+  freetype           conda-forge/linux-64::freetype-2.12.1-hca18f0e_0 None
+  gettext            conda-forge/linux-64::gettext-0.21.1-h27087fc_0 None
+  gsl                conda-forge/linux-64::gsl-2.7-he838d99_0 None
+  iqtree             bioconda/linux-64::iqtree-2.2.2.3-hb97b32f_0 None
+  jpeg               conda-forge/linux-64::jpeg-9e-h166bdaf_2 None
+  keyutils           conda-forge/linux-64::keyutils-1.6.1-h166bdaf_0 None
+  kiwisolver         conda-forge/linux-64::kiwisolver-1.4.4-py311h4dd048b_1 None
+  krb5               conda-forge/linux-64::krb5-1.19.3-h3790be6_0 None
+  lcms2              conda-forge/linux-64::lcms2-2.14-h6ed2654_0 None
+  ld_impl_linux-64   conda-forge/linux-64::ld_impl_linux-64-2.39-hc81fddc_0 None
+  lerc               conda-forge/linux-64::lerc-4.0.0-h27087fc_0 None
+  libblas            conda-forge/linux-64::libblas-3.9.0-16_linux64_openblas None
+  libbrotlicommon    conda-forge/linux-64::libbrotlicommon-1.0.9-h166bdaf_8 None
+  libbrotlidec       conda-forge/linux-64::libbrotlidec-1.0.9-h166bdaf_8 None
+  libbrotlienc       conda-forge/linux-64::libbrotlienc-1.0.9-h166bdaf_8 None
+  libcblas           conda-forge/linux-64::libcblas-3.9.0-16_linux64_openblas None
+  libcurl            conda-forge/linux-64::libcurl-7.86.0-h7bff187_1 None
+  libdeflate         conda-forge/linux-64::libdeflate-1.14-h166bdaf_0 None
+  libedit            main/linux-64::libedit-3.1.20221030-h5eee18b_0 None
+  libev              conda-forge/linux-64::libev-4.33-h516909a_1 None
+  libffi             conda-forge/linux-64::libffi-3.4.2-h7f98852_5 None
+  libgcc-ng          conda-forge/linux-64::libgcc-ng-12.2.0-h65d4601_19 None
+  libgfortran-ng     conda-forge/linux-64::libgfortran-ng-12.2.0-h69a702a_19 None
+  libgfortran5       conda-forge/linux-64::libgfortran5-12.2.0-h337968e_19 None
+  libgomp            conda-forge/linux-64::libgomp-12.2.0-h65d4601_19 None
+  libidn2            conda-forge/linux-64::libidn2-2.3.4-h166bdaf_0 None
+  liblapack          conda-forge/linux-64::liblapack-3.9.0-16_linux64_openblas None
+  libnghttp2         conda-forge/linux-64::libnghttp2-1.47.0-hdcd2b5c_1 None
+  libnsl             conda-forge/linux-64::libnsl-2.0.0-h7f98852_0 None
+  libopenblas        conda-forge/linux-64::libopenblas-0.3.21-pthreads_h78a6416_3 None
+  libpng             conda-forge/linux-64::libpng-1.6.38-h753d276_0 None
+  libsqlite          conda-forge/linux-64::libsqlite-3.40.0-h753d276_0 None
+  libssh2            conda-forge/linux-64::libssh2-1.10.0-haa6b8db_3 None
+  libstdcxx-ng       conda-forge/linux-64::libstdcxx-ng-12.2.0-h46fd767_19 None
+  libtiff            conda-forge/linux-64::libtiff-4.4.0-h55922b4_4 None
+  libunistring       conda-forge/linux-64::libunistring-0.9.10-h7f98852_0 None
+  libuuid            conda-forge/linux-64::libuuid-2.32.1-h7f98852_1000 None
+  libwebp-base       conda-forge/linux-64::libwebp-base-1.2.4-h166bdaf_0 None
+  libxcb             conda-forge/linux-64::libxcb-1.13-h7f98852_1004 None
+  libzlib            conda-forge/linux-64::libzlib-1.2.13-h166bdaf_4 None
+  mafft              bioconda/linux-64::mafft-7.520-hec16e2b_0 None
+  mash               bioconda/linux-64::mash-2.3-hd3113c8_4 None
+  matplotlib-base    conda-forge/linux-64::matplotlib-base-3.6.2-py311he728205_0 None
+  munkres            bioconda/noarch::munkres-1.0.7-py_1 None
+  muscle             bioconda/linux-64::muscle-5.1-h9f5acd7_1 None
+  ncurses            conda-forge/linux-64::ncurses-6.3-h27087fc_1 None
+  numpy              conda-forge/linux-64::numpy-1.23.4-py311h7d28db0_1 None
+  openjpeg           conda-forge/linux-64::openjpeg-2.5.0-h7d73246_1 None
+  openssl            conda-forge/linux-64::openssl-1.1.1s-h166bdaf_0 None
+  packaging          conda-forge/noarch::packaging-21.3-pyhd8ed1ab_0 None
+  pandas             conda-forge/linux-64::pandas-1.5.1-py311h8b32b4d_1 None
+  patsy              conda-forge/noarch::patsy-0.5.3-pyhd8ed1ab_0 None
+  pcre               conda-forge/linux-64::pcre-8.45-h9c3ff4c_0 None
+  perl               conda-forge/linux-64::perl-5.32.1-2_h7f98852_perl5 None
+  perl-archive-tar   bioconda/noarch::perl-archive-tar-2.40-pl5321hdfd78af_0 None
+  perl-carp          bioconda/noarch::perl-carp-1.38-pl5321hdfd78af_4 None
+  perl-common-sense  bioconda/noarch::perl-common-sense-3.75-pl5321hdfd78af_0 None
+  perl-compress-raw~ bioconda/linux-64::perl-compress-raw-bzip2-2.201-pl5321h87f3376_1 None
+  perl-compress-raw~ bioconda/linux-64::perl-compress-raw-zlib-2.105-pl5321h87f3376_0 None
+  perl-encode        bioconda/linux-64::perl-encode-3.19-pl5321hec16e2b_1 None
+  perl-exporter      bioconda/noarch::perl-exporter-5.72-pl5321hdfd78af_2 None
+  perl-exporter-tiny bioconda/noarch::perl-exporter-tiny-1.002002-pl5321hdfd78af_0 None
+  perl-extutils-mak~ conda-forge/noarch::perl-extutils-makemaker-7.64-pl5321hd8ed1ab_0 None
+  perl-io-compress   bioconda/linux-64::perl-io-compress-2.201-pl5321h87f3376_0 None
+  perl-io-zlib       bioconda/noarch::perl-io-zlib-1.14-pl5321hdfd78af_0 None
+  perl-json          bioconda/noarch::perl-json-4.10-pl5321hdfd78af_0 None
+  perl-json-xs       bioconda/linux-64::perl-json-xs-2.34-pl5321h9f5acd7_5 None
+  perl-list-moreuti~ bioconda/noarch::perl-list-moreutils-0.430-pl5321hdfd78af_0 None
+  perl-list-moreuti~ bioconda/linux-64::perl-list-moreutils-xs-0.430-pl5321hec16e2b_1 None
+  perl-parent        bioconda/noarch::perl-parent-0.236-pl5321hdfd78af_2 None
+  perl-pathtools     bioconda/linux-64::perl-pathtools-3.75-pl5321hec16e2b_3 None
+  perl-scalar-list-~ bioconda/linux-64::perl-scalar-list-utils-1.62-pl5321hec16e2b_1 None
+  perl-types-serial~ bioconda/noarch::perl-types-serialiser-1.01-pl5321hdfd78af_0 None
+  phylophlan         bioconda/noarch::phylophlan-3.0.3-pyhdfd78af_0 None
+  pillow             conda-forge/linux-64::pillow-9.2.0-py311h9461556_3 None
+  pip                conda-forge/noarch::pip-22.3.1-pyhd8ed1ab_0 None
+  pthread-stubs      conda-forge/linux-64::pthread-stubs-0.4-h36c2ea0_1001 None
+  pyparsing          conda-forge/noarch::pyparsing-3.0.9-pyhd8ed1ab_0 None
+  python             conda-forge/linux-64::python-3.11.0-h582c2e5_0_cpython None
+  python-dateutil    conda-forge/noarch::python-dateutil-2.8.2-pyhd8ed1ab_0 None
+  python_abi         conda-forge/linux-64::python_abi-3.11-2_cp311 None
+  pytz               conda-forge/noarch::pytz-2022.6-pyhd8ed1ab_0 None
+  raxml              bioconda/linux-64::raxml-8.2.12-hec16e2b_4 None
+  readline           conda-forge/linux-64::readline-8.1.2-h0f457ee_0 None
+  scipy              conda-forge/linux-64::scipy-1.9.3-py311h69910c8_2 None
+  seaborn            conda-forge/noarch::seaborn-0.12.1-hd8ed1ab_0 None
+  seaborn-base       conda-forge/noarch::seaborn-base-0.12.1-pyhd8ed1ab_0 None
+  setuptools         conda-forge/noarch::setuptools-65.5.1-pyhd8ed1ab_0 None
+  six                conda-forge/noarch::six-1.16.0-pyh6c4a22f_0 None
+  statsmodels        conda-forge/linux-64::statsmodels-0.13.5-py311h4c7f6c3_2 None
+  tk                 conda-forge/linux-64::tk-8.6.12-h27826a3_0 None
+  trimal             bioconda/linux-64::trimal-1.4.1-h9f5acd7_6 None
+  typing_extensions  conda-forge/noarch::typing_extensions-4.4.0-pyha770c72_0 None
+  tzdata             conda-forge/noarch::tzdata-2022f-h191b570_0 None
+  wget               conda-forge/linux-64::wget-1.20.3-ha56f1ee_1 None
+  wheel              conda-forge/noarch::wheel-0.38.4-pyhd8ed1ab_0 None
+  xorg-libxau        conda-forge/linux-64::xorg-libxau-1.0.9-h7f98852_0 None
+  xorg-libxdmcp      conda-forge/linux-64::xorg-libxdmcp-1.1.3-h7f98852_0 None
+  xz                 conda-forge/linux-64::xz-5.2.6-h166bdaf_0 None
+  zlib               conda-forge/linux-64::zlib-1.2.13-h166bdaf_4 None
+  zstd               conda-forge/linux-64::zstd-1.5.2-h6239696_4 None
+
+
+Proceed ([y]/n)? 
+
+Downloading and Extracting Packages
+phylophlan-3.0.3     | 79 KB     |            |   0% phylophlan-3.0.3     | 79 KB     | ##         |  20% phylophlan-3.0.3     | 79 KB     | ########## | 100% phylophlan-3.0.3     | 79 KB     | ########## | 100% 
+blast-2.12.0         | 22.2 MB   |            |   0% blast-2.12.0         | 22.2 MB   | ########## | 100% blast-2.12.0         | 22.2 MB   | ########## | 100% 
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+#
+# To activate this environment, use
+#
+#     $ conda activate phylophlan
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+Retrieving notices: ...working... done
+/var/spool/slurmd/job7852393/slurm_script: line 16: ​: command not found
+/var/spool/slurmd/job7852393/slurm_script: line 18: ​: command not found
+phylophlan_write_config_file.py version 3.0.21 (11 June 2021)
+
+Command line: /home/prve5836/envs/phylophlan/bin/phylophlan_write_config_file -o /home/prve5836/envs/configs/supermatrix_nt.cfg -d n --db_dna makeblastdb --map_dna blastn --msa mafft --trim trimal --tree1 fasttree --tree2 raxml --overwrite --verbose
+
+Arguments: {'output': '/home/prve5836/envs/configs/supermatrix_nt.cfg', 'db_type': 'n', 'db_dna': 'makeblastdb', 'db_aa': None, 'map_dna': 'blastn', 'map_aa': None, 'msa': 'mafft', 'trim': 'trimal', 'gene_tree1': None, 'gene_tree2': None, 'tree1': 'fasttree', 'tree2': 'raxml', 'absolute_path': False, 'force_nucleotides': None, 'overwrite': True, 'verbose': True}
+phylophlan_write_config_file.py version 3.0.21 (11 June 2021)
+
+Command line: /home/prve5836/envs/phylophlan/bin/phylophlan_write_config_file -o /home/prve5836/envs/configs/supertree_nt.cfg -d n --db_dna makeblastdb --map_dna blastn --msa mafft --trim trimal --gene_tree1 fasttree --gene_tree2 raxml --tree1 astral --overwrite --verbose
+
+Arguments: {'output': '/home/prve5836/envs/configs/supertree_nt.cfg', 'db_type': 'n', 'db_dna': 'makeblastdb', 'db_aa': None, 'map_dna': 'blastn', 'map_aa': None, 'msa': 'mafft', 'trim': 'trimal', 'gene_tree1': 'fasttree', 'gene_tree2': 'raxml', 'tree1': 'astral', 'tree2': None, 'absolute_path': False, 'force_nucleotides': None, 'overwrite': True, 'verbose': True}
+
+[w] using a template for ASTRAL as it should be manually installed from https://github.com/smirarab/ASTRAL and this config file should be manually updated
+phylophlan_write_config_file.py version 3.0.21 (11 June 2021)
+
+Command line: /home/prve5836/envs/phylophlan/bin/phylophlan_write_config_file -o /home/prve5836/envs/configs/supermatrix_aa.cfg -d a --db_aa diamond --map_dna diamond --map_aa diamond --msa mafft --trim trimal --tree1 fasttree --tree2 raxml --overwrite --verbose
+
+Arguments: {'output': '/home/prve5836/envs/configs/supermatrix_aa.cfg', 'db_type': 'a', 'db_dna': None, 'db_aa': 'diamond', 'map_dna': 'diamond', 'map_aa': 'diamond', 'msa': 'mafft', 'trim': 'trimal', 'gene_tree1': None, 'gene_tree2': None, 'tree1': 'fasttree', 'tree2': 'raxml', 'absolute_path': False, 'force_nucleotides': None, 'overwrite': True, 'verbose': True}
+phylophlan_write_config_file.py version 3.0.21 (11 June 2021)
+
+Command line: /home/prve5836/envs/phylophlan/bin/phylophlan_write_config_file -o /home/prve5836/envs/configs/supertree_aa.cfg -d a --db_aa diamond --map_dna diamond --map_aa diamond --msa mafft --trim trimal --gene_tree1 fasttree --gene_tree2 raxml --tree1 astral --overwrite --verbose
+
+Arguments: {'output': '/home/prve5836/envs/configs/supertree_aa.cfg', 'db_type': 'a', 'db_dna': None, 'db_aa': 'diamond', 'map_dna': 'diamond', 'map_aa': 'diamond', 'msa': 'mafft', 'trim': 'trimal', 'gene_tree1': 'fasttree', 'gene_tree2': 'raxml', 'tree1': 'astral', 'tree2': None, 'absolute_path': False, 'force_nucleotides': None, 'overwrite': True, 'verbose': True}
+
+[w] using a template for ASTRAL as it should be manually installed from https://github.com/smirarab/ASTRAL and this config file should be manually updated

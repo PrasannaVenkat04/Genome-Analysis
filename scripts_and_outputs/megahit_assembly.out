@@ -1,0 +1,23 @@
+/var/spool/slurmd/job7829238/slurm_script: line 16: cd: Genome_Analysis/Data/Data_DNA: No such file or directory
+2023-05-07 10:20:07 - MEGAHIT v1.2.9
+2023-05-07 10:20:07 - Using megahit_core with POPCNT support
+2023-05-07 10:20:07 - Convert reads to binary library
+2023-05-07 10:22:38 - INFO  sequence/io/sequence_lib.cpp  :   75 - Lib 0 (/home/prve5836/Genome_Analysis/Data/Data_DNA/SRR4342129_1.paired.trimmed.fastq.gz,/home/prve5836/Genome_Analysis/Data/Data_DNA/SRR4342129_2.paired.trimmed.fastq.gz): pe, 48110692 reads, 101 max length
+2023-05-07 10:26:04 - INFO  sequence/io/sequence_lib.cpp  :   75 - Lib 1 (/home/prve5836/Genome_Analysis/Data/Data_DNA/SRR4342133_1.paired.trimmed.fastq.gz,/home/prve5836/Genome_Analysis/Data/Data_DNA/SRR4342133_2.paired.trimmed.fastq.gz): pe, 59954188 reads, 101 max length
+2023-05-07 10:26:06 - INFO  utils/utils.h                 :  152 - Real: 358.3427	user: 104.8303	sys: 12.5582	maxrss: 273504
+2023-05-07 10:26:06 - Start assembly. Number of CPU threads 16 
+2023-05-07 10:26:06 - k list: 69,79,89 
+2023-05-07 10:26:06 - Memory used: 121485448396
+2023-05-07 10:26:06 - Extracting solid (k+1)-mers and building sdbg for k = 69
+2023-05-07 11:27:56 - Assemble contigs from SdBG for k = 69
+2023-05-07 12:00:59 - Local assembly for k = 69
+2023-05-07 12:42:34 - Extract iterative edges from k = 69 to 79 
+2023-05-07 12:46:29 - Build graph for k = 79 
+2023-05-07 12:49:39 - Assemble contigs from SdBG for k = 79
+2023-05-07 13:03:32 - Local assembly for k = 79
+2023-05-07 13:34:22 - Extract iterative edges from k = 79 to 89 
+2023-05-07 13:38:08 - Build graph for k = 89 
+2023-05-07 13:41:38 - Assemble contigs from SdBG for k = 89
+2023-05-07 13:53:14 - Merging to output final contigs 
+2023-05-07 13:53:17 - 326499 contigs, total 235744011 bp, min 200 bp, max 158764 bp, avg 722 bp, N50 810 bp
+2023-05-07 13:53:18 - ALL DONE. Time elapsed: 12790.715076 seconds 
