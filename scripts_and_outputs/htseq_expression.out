@@ -1,4 +1,4 @@
-3169 GFF lines processed.
+2861 GFF lines processed.
 100000 SAM alignment record pairs processed.
 200000 SAM alignment record pairs processed.
 300000 SAM alignment record pairs processed.
@@ -15,7 +15,7 @@
 Warning: Mate records missing for 145 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.1067997' aligned to k89_174209:[3310,3366)/->.
 Warning: Mate pairing was ambiguous for 12 records; mate key for first such record: ('SRR4342137.593438', 'first', 'k89_73055', 0, None, None, None).
 1304831 SAM alignment pairs processed.
-3169 GFF lines processed.
+2861 GFF lines processed.
 100000 SAM alignment record pairs processed.
 200000 SAM alignment record pairs processed.
 300000 SAM alignment record pairs processed.
@@ -31,7 +31,7 @@ Warning: Mate pairing was ambiguous for 12 records; mate key for first such reco
 Warning: Mate records missing for 621 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.582872' aligned to k89_124265:[7796,7854)/->.
 Warning: Mate pairing was ambiguous for 34 records; mate key for first such record: ('SRR4342139.1187719', 'first', 'k89_124265', 7796, None, None, None).
 1213674 SAM alignment pairs processed.
-198 GFF lines processed.
+185 GFF lines processed.
 100000 SAM alignment record pairs processed.
 200000 SAM alignment record pairs processed.
 300000 SAM alignment record pairs processed.
@@ -46,7 +46,7 @@ Warning: Mate pairing was ambiguous for 34 records; mate key for first such reco
 1200000 SAM alignment record pairs processed.
 1300000 SAM alignment record pairs processed.
 1304686 SAM alignment pairs processed.
-198 GFF lines processed.
+185 GFF lines processed.
 100000 SAM alignment record pairs processed.
 200000 SAM alignment record pairs processed.
 300000 SAM alignment record pairs processed.
@@ -61,7 +61,100 @@ Warning: Mate pairing was ambiguous for 34 records; mate key for first such reco
 1200000 SAM alignment record pairs processed.
 Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.929892' aligned to k89_222948:[329,373)/->.
 1213041 SAM alignment pairs processed.
-198 GFF lines processed.
+1279 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+1300000 SAM alignment record pairs processed.
+Warning: Mate records missing for 13 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.1184973' aligned to k89_361318:[0,47)/->.
+1304699 SAM alignment pairs processed.
+1279 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+Warning: Mate records missing for 14 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.1204350' aligned to k89_97012:[28,68)/->.
+1213054 SAM alignment pairs processed.
+2385 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+1300000 SAM alignment record pairs processed.
+Warning: Mate records missing for 5 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.94291' aligned to k89_46075:[44,85)/->.
+1304691 SAM alignment pairs processed.
+2385 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+Warning: Mate records missing for 35 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.783929' aligned to k89_115975:[4520,4560)/->.
+1213075 SAM alignment pairs processed.
+2824 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+1300000 SAM alignment record pairs processed.
+Warning: Mate records missing for 9 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.1192993' aligned to k89_125221:[24844,24884)/->.
+1304695 SAM alignment pairs processed.
+2824 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+Warning: Mate records missing for 8 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.42750' aligned to k89_121522:[61472,61503)/->.
+1213048 SAM alignment pairs processed.
+974 GFF lines processed.
 100000 SAM alignment record pairs processed.
 200000 SAM alignment record pairs processed.
 300000 SAM alignment record pairs processed.
@@ -76,7 +169,7 @@ Warning: Mate records missing for 1 records; first such record: <SAM_Alignment o
 1200000 SAM alignment record pairs processed.
 1300000 SAM alignment record pairs processed.
 1304686 SAM alignment pairs processed.
-198 GFF lines processed.
+974 GFF lines processed.
 100000 SAM alignment record pairs processed.
 200000 SAM alignment record pairs processed.
 300000 SAM alignment record pairs processed.
@@ -89,9 +182,373 @@ Warning: Mate records missing for 1 records; first such record: <SAM_Alignment o
 1000000 SAM alignment record pairs processed.
 1100000 SAM alignment record pairs processed.
 1200000 SAM alignment record pairs processed.
-Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.929892' aligned to k89_222948:[329,373)/->.
+1213040 SAM alignment pairs processed.
+910 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+1300000 SAM alignment record pairs processed.
+1304686 SAM alignment pairs processed.
+910 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+1213040 SAM alignment pairs processed.
+2277 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+1300000 SAM alignment record pairs processed.
+Warning: Mate records missing for 2 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.1050322' aligned to k89_262924:[32323,32363)/->.
+1304688 SAM alignment pairs processed.
+2277 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.427360' aligned to k89_74243:[16037,16067)/->.
 1213041 SAM alignment pairs processed.
-198 GFF lines processed.
+349 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+1300000 SAM alignment record pairs processed.
+Warning: Mate records missing for 3 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.44871' aligned to k89_215662:[1702,1749)/+>.
+1304689 SAM alignment pairs processed.
+349 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+1213040 SAM alignment pairs processed.
+1505 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+1300000 SAM alignment record pairs processed.
+Warning: Mate records missing for 4 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.227634' aligned to k89_107448:[12300,12338)/->.
+1304690 SAM alignment pairs processed.
+1505 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+Warning: Mate records missing for 2 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.1190656' aligned to k89_219212:[4010,4045)/->.
+1213042 SAM alignment pairs processed.
+8429 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+1300000 SAM alignment record pairs processed.
+Warning: Mate records missing for 55 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.552324' aligned to k89_298909:[2382,2431)/->.
+1304741 SAM alignment pairs processed.
+8429 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+Warning: Mate records missing for 53 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.359977' aligned to k89_331119:[3898,3936)/->.
+1213093 SAM alignment pairs processed.
+2416 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+1300000 SAM alignment record pairs processed.
+Warning: Mate records missing for 2 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.579617' aligned to k89_156990:[373,423)/->.
+1304688 SAM alignment pairs processed.
+2416 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+1213040 SAM alignment pairs processed.
+806 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+1300000 SAM alignment record pairs processed.
+Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.1292257' aligned to k89_297700:[990,1031)/+>.
+1304687 SAM alignment pairs processed.
+806 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+1213040 SAM alignment pairs processed.
+741 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+1300000 SAM alignment record pairs processed.
+Warning: Mate records missing for 4 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.854542' aligned to k89_146621:[1475,1522)/+>.
+1304690 SAM alignment pairs processed.
+741 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+1213040 SAM alignment pairs processed.
+1037 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+1300000 SAM alignment record pairs processed.
+Warning: Mate records missing for 5 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.976082' aligned to k89_1904:[0,48)/->.
+1304691 SAM alignment pairs processed.
+1037 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+1213040 SAM alignment pairs processed.
+4133 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+1300000 SAM alignment record pairs processed.
+Warning: Mate records missing for 8 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.877356' aligned to k89_317598:[113,159)/+>.
+1304694 SAM alignment pairs processed.
+4133 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+Warning: Mate records missing for 10 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.65129' aligned to k89_50524:[1198,1236)/+>.
+1213050 SAM alignment pairs processed.
+1300 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+1300000 SAM alignment record pairs processed.
+Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.396529' aligned to k89_150274:[1109,1150)/+>.
+1304687 SAM alignment pairs processed.
+1300 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+Warning: Mate records missing for 5 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.229170' aligned to k89_210352:[45,86)/->.
+1213045 SAM alignment pairs processed.
+561 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+1300000 SAM alignment record pairs processed.
+Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.457645' aligned to k89_31191:[3813,3866)/+>.
+1304687 SAM alignment pairs processed.
+561 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+Warning: Mate records missing for 3 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.664125' aligned to k89_217178:[6072,6103)/->.
+1213043 SAM alignment pairs processed.
+3023 GFF lines processed.
 100000 SAM alignment record pairs processed.
 200000 SAM alignment record pairs processed.
 300000 SAM alignment record pairs processed.
@@ -106,7 +563,7 @@ Warning: Mate records missing for 1 records; first such record: <SAM_Alignment o
 1200000 SAM alignment record pairs processed.
 1300000 SAM alignment record pairs processed.
 1304686 SAM alignment pairs processed.
-198 GFF lines processed.
+3023 GFF lines processed.
 100000 SAM alignment record pairs processed.
 200000 SAM alignment record pairs processed.
 300000 SAM alignment record pairs processed.
@@ -119,9 +576,70 @@ Warning: Mate records missing for 1 records; first such record: <SAM_Alignment o
 1000000 SAM alignment record pairs processed.
 1100000 SAM alignment record pairs processed.
 1200000 SAM alignment record pairs processed.
-Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.929892' aligned to k89_222948:[329,373)/->.
-1213041 SAM alignment pairs processed.
-198 GFF lines processed.
+Warning: Mate records missing for 2 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.315540' aligned to k89_120111:[3627,3658)/+>.
+1213042 SAM alignment pairs processed.
+1581 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+1300000 SAM alignment record pairs processed.
+Warning: Mate records missing for 3 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.994737' aligned to k89_298126:[12521,12553)/->.
+1304689 SAM alignment pairs processed.
+1581 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+1213040 SAM alignment pairs processed.
+1586 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+1300000 SAM alignment record pairs processed.
+Warning: Mate records missing for 128 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.855410' aligned to k89_196574:[0,68)/->.
+1304814 SAM alignment pairs processed.
+1586 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+Warning: Mate records missing for 14 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.430417' aligned to k89_193254:[6945,7008)/->.
+1213054 SAM alignment pairs processed.
+378 GFF lines processed.
 100000 SAM alignment record pairs processed.
 200000 SAM alignment record pairs processed.
 300000 SAM alignment record pairs processed.
@@ -136,7 +654,7 @@ Warning: Mate records missing for 1 records; first such record: <SAM_Alignment o
 1200000 SAM alignment record pairs processed.
 1300000 SAM alignment record pairs processed.
 1304686 SAM alignment pairs processed.
-198 GFF lines processed.
+378 GFF lines processed.
 100000 SAM alignment record pairs processed.
 200000 SAM alignment record pairs processed.
 300000 SAM alignment record pairs processed.
@@ -149,39 +667,8 @@ Warning: Mate records missing for 1 records; first such record: <SAM_Alignment o
 1000000 SAM alignment record pairs processed.
 1100000 SAM alignment record pairs processed.
 1200000 SAM alignment record pairs processed.
-Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.929892' aligned to k89_222948:[329,373)/->.
-1213041 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-1300000 SAM alignment record pairs processed.
-1304686 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.929892' aligned to k89_222948:[329,373)/->.
-1213041 SAM alignment pairs processed.
-198 GFF lines processed.
+1213040 SAM alignment pairs processed.
+342 GFF lines processed.
 100000 SAM alignment record pairs processed.
 200000 SAM alignment record pairs processed.
 300000 SAM alignment record pairs processed.
@@ -196,7 +683,7 @@ Warning: Mate records missing for 1 records; first such record: <SAM_Alignment o
 1200000 SAM alignment record pairs processed.
 1300000 SAM alignment record pairs processed.
 1304686 SAM alignment pairs processed.
-198 GFF lines processed.
+342 GFF lines processed.
 100000 SAM alignment record pairs processed.
 200000 SAM alignment record pairs processed.
 300000 SAM alignment record pairs processed.
@@ -209,9 +696,39 @@ Warning: Mate records missing for 1 records; first such record: <SAM_Alignment o
 1000000 SAM alignment record pairs processed.
 1100000 SAM alignment record pairs processed.
 1200000 SAM alignment record pairs processed.
-Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.929892' aligned to k89_222948:[329,373)/->.
-1213041 SAM alignment pairs processed.
-198 GFF lines processed.
+Warning: Mate records missing for 4 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.1045581' aligned to k89_53188:[361,415)/->.
+1213044 SAM alignment pairs processed.
+896 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+1300000 SAM alignment record pairs processed.
+Warning: Mate records missing for 2 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.138245' aligned to k89_193824:[1166,1209)/->.
+1304688 SAM alignment pairs processed.
+896 GFF lines processed.
+100000 SAM alignment record pairs processed.
+200000 SAM alignment record pairs processed.
+300000 SAM alignment record pairs processed.
+400000 SAM alignment record pairs processed.
+500000 SAM alignment record pairs processed.
+600000 SAM alignment record pairs processed.
+700000 SAM alignment record pairs processed.
+800000 SAM alignment record pairs processed.
+900000 SAM alignment record pairs processed.
+1000000 SAM alignment record pairs processed.
+1100000 SAM alignment record pairs processed.
+1200000 SAM alignment record pairs processed.
+1213040 SAM alignment pairs processed.
+1537 GFF lines processed.
 100000 SAM alignment record pairs processed.
 200000 SAM alignment record pairs processed.
 300000 SAM alignment record pairs processed.
@@ -226,7 +743,7 @@ Warning: Mate records missing for 1 records; first such record: <SAM_Alignment o
 1200000 SAM alignment record pairs processed.
 1300000 SAM alignment record pairs processed.
 1304686 SAM alignment pairs processed.
-198 GFF lines processed.
+1537 GFF lines processed.
 100000 SAM alignment record pairs processed.
 200000 SAM alignment record pairs processed.
 300000 SAM alignment record pairs processed.
@@ -239,39 +756,9 @@ Warning: Mate records missing for 1 records; first such record: <SAM_Alignment o
 1000000 SAM alignment record pairs processed.
 1100000 SAM alignment record pairs processed.
 1200000 SAM alignment record pairs processed.
-Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.929892' aligned to k89_222948:[329,373)/->.
-1213041 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-1300000 SAM alignment record pairs processed.
-1304686 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.929892' aligned to k89_222948:[329,373)/->.
-1213041 SAM alignment pairs processed.
-198 GFF lines processed.
+Warning: Mate records missing for 2 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.1117030' aligned to k89_176245:[3179,3217)/->.
+1213042 SAM alignment pairs processed.
+1085 GFF lines processed.
 100000 SAM alignment record pairs processed.
 200000 SAM alignment record pairs processed.
 300000 SAM alignment record pairs processed.
@@ -285,8 +772,9 @@ Warning: Mate records missing for 1 records; first such record: <SAM_Alignment o
 1100000 SAM alignment record pairs processed.
 1200000 SAM alignment record pairs processed.
 1300000 SAM alignment record pairs processed.
-1304686 SAM alignment pairs processed.
-198 GFF lines processed.
+Warning: Mate records missing for 4 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342137.537617' aligned to k89_26606:[1322,1355)/+>.
+1304690 SAM alignment pairs processed.
+1085 GFF lines processed.
 100000 SAM alignment record pairs processed.
 200000 SAM alignment record pairs processed.
 300000 SAM alignment record pairs processed.
@@ -299,485 +787,5 @@ Warning: Mate records missing for 1 records; first such record: <SAM_Alignment o
 1000000 SAM alignment record pairs processed.
 1100000 SAM alignment record pairs processed.
 1200000 SAM alignment record pairs processed.
-Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.929892' aligned to k89_222948:[329,373)/->.
-1213041 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-1300000 SAM alignment record pairs processed.
-1304686 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.929892' aligned to k89_222948:[329,373)/->.
-1213041 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-1300000 SAM alignment record pairs processed.
-1304686 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.929892' aligned to k89_222948:[329,373)/->.
-1213041 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-1300000 SAM alignment record pairs processed.
-1304686 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.929892' aligned to k89_222948:[329,373)/->.
-1213041 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-1300000 SAM alignment record pairs processed.
-1304686 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.929892' aligned to k89_222948:[329,373)/->.
-1213041 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-1300000 SAM alignment record pairs processed.
-1304686 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.929892' aligned to k89_222948:[329,373)/->.
-1213041 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-1300000 SAM alignment record pairs processed.
-1304686 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.929892' aligned to k89_222948:[329,373)/->.
-1213041 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-1300000 SAM alignment record pairs processed.
-1304686 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.929892' aligned to k89_222948:[329,373)/->.
-1213041 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-1300000 SAM alignment record pairs processed.
-1304686 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.929892' aligned to k89_222948:[329,373)/->.
-1213041 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-1300000 SAM alignment record pairs processed.
-1304686 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.929892' aligned to k89_222948:[329,373)/->.
-1213041 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-1300000 SAM alignment record pairs processed.
-1304686 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.929892' aligned to k89_222948:[329,373)/->.
-1213041 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-1300000 SAM alignment record pairs processed.
-1304686 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.929892' aligned to k89_222948:[329,373)/->.
-1213041 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-1300000 SAM alignment record pairs processed.
-1304686 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.929892' aligned to k89_222948:[329,373)/->.
-1213041 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-1300000 SAM alignment record pairs processed.
-1304686 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.929892' aligned to k89_222948:[329,373)/->.
-1213041 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-1300000 SAM alignment record pairs processed.
-1304686 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.929892' aligned to k89_222948:[329,373)/->.
-1213041 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-1300000 SAM alignment record pairs processed.
-1304686 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.929892' aligned to k89_222948:[329,373)/->.
-1213041 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-1300000 SAM alignment record pairs processed.
-1304686 SAM alignment pairs processed.
-198 GFF lines processed.
-100000 SAM alignment record pairs processed.
-200000 SAM alignment record pairs processed.
-300000 SAM alignment record pairs processed.
-400000 SAM alignment record pairs processed.
-500000 SAM alignment record pairs processed.
-600000 SAM alignment record pairs processed.
-700000 SAM alignment record pairs processed.
-800000 SAM alignment record pairs processed.
-900000 SAM alignment record pairs processed.
-1000000 SAM alignment record pairs processed.
-1100000 SAM alignment record pairs processed.
-1200000 SAM alignment record pairs processed.
-Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.929892' aligned to k89_222948:[329,373)/->.
+Warning: Mate records missing for 1 records; first such record: <SAM_Alignment object: Paired-end read 'SRR4342139.395758' aligned to k89_143743:[19591,19628)/+>.
 1213041 SAM alignment pairs processed.
