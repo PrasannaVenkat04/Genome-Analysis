@@ -37,17 +37,17 @@ The study is aimed to understand the metabolic roles of different bacterial grou
 ## 9. Analysis of activity (expression level) of different bins.
    > This is done using Htseq. HTSeq provides several utilities for processing and analyzing the output from RNA-seq experiments, including counting the number of reads mapping to each gene in a genome, quantifying transcript expression levels, and detecting differentially expressed genes between experimental conditions.
 
-Project Plan:
-31.03.2023: Reads Preprocessing (trimming + quality check)
-14.04.2023: DNA assembly
-17.04.2023: Binning
-25.04.2023: Binning and Assembly Evaluation
-02.05.2023: Annotation
-05.05.2023: Aligner/Mapping
-10.05.2023: Phylogeny
-11.05.2023: Analysis of activity (differential expression)
-16.05.2023: Prepare for presentation, reports, last checks
-23.05.2023: Presentation
+## Project Plan:
+   > 31.03.2023: Reads Preprocessing (trimming + quality check)
+   > 14.04.2023: DNA assembly
+   > 17.04.2023: Binning
+   > 25.04.2023: Binning and Assembly Evaluation
+   > 02.05.2023: Annotation
+   > 05.05.2023: Aligner/Mapping
+   > 10.05.2023: Phylogeny
+   > 11.05.2023: Analysis of activity (differential expression)
+   > 16.05.2023: Prepare for presentation, reports, last checks
+   > 23.05.2023: Presentation
 
 
 
