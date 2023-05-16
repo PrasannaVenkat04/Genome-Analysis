@@ -39,8 +39,11 @@ The study is aimed to understand the metabolic roles of different bacterial grou
 
 ## Project Plan:
    > 31.03.2023: Reads Preprocessing (trimming + quality check)
+   
    > 14.04.2023: DNA assembly
+   
    > 17.04.2023: Binning
+   
    > 25.04.2023: Binning and Assembly Evaluation
    > 02.05.2023: Annotation
    > 05.05.2023: Aligner/Mapping
