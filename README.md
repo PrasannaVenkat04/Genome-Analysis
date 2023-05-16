@@ -54,7 +54,7 @@ The study is aimed to understand the metabolic roles of different bacterial grou
 
    > 11.05.2023: Analysis of activity (differential expression)
    
-   > 16.05.2023: Prepare for presentation, reports, last checks
+   > 16.05.2023-17.05.2023: Prepare for presentation, reports, last checks
    
    > 23.05.2023: Presentation
 
