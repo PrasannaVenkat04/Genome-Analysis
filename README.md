@@ -45,11 +45,17 @@ The study is aimed to understand the metabolic roles of different bacterial grou
    > 17.04.2023: Binning
    
    > 25.04.2023: Binning and Assembly Evaluation
+   
    > 02.05.2023: Annotation
+
    > 05.05.2023: Aligner/Mapping
+
    > 10.05.2023: Phylogeny
+
    > 11.05.2023: Analysis of activity (differential expression)
+   
    > 16.05.2023: Prepare for presentation, reports, last checks
+   
    > 23.05.2023: Presentation
 
 
